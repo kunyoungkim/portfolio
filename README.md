@@ -20,14 +20,14 @@
 
 
 ## :pushpin: 피터팬의 좋은방 구하기 Projects
-### 1. [첫 번째 프로젝트]()
+### 1. [event_taxonomy](https://github.com/kunyoungkim/portfolio/tree/main/event_taxonomy)
 >웹, 앱 통합 사용자 행동 이벤트 택소노미 정의 및 GTM, GA4 세팅 (경력 프로젝트)  
 >개발 기간: 2023.02.27 ~  2024.04.05
 >  
 >기술 스택:  
 >GA4 / GTM / Appsflyer  
 >  
->[프로젝트 상세 설명]() 참고
+>[프로젝트 상세 설명](https://github.com/kunyoungkim/portfolio/tree/main/event_taxonomy) 참고
 
 ---
 
