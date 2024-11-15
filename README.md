@@ -10,7 +10,7 @@
 
 ## :pushpin: Contact
 - 이메일: rlarjsdud25@gmail.com
-- 블로그: [https://blog.naver.com/life_researcher](https://coduking.tistory.com/)
+- 블로그: [https://coduking.tistory.com/](https://coduking.tistory.com/)
 - 깃헙: [https://github.com/kunyoungkim](https://github.com/kunyoungkim/)
 
 </br>
