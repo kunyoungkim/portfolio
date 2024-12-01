@@ -15,7 +15,7 @@
 - 이벤트 이름 카더널리티를 줄이기 위해 page_id와 같은 매개변수 수집이 가능하게 요청
 - WEB: GTM의 사용자 맞춤 자바스크립트 변수를 통해 백엔드에서 보내주는 데이터 & hr태그의 속성 및 속성 값를 통해 page_id 등 매개변수를 수집
 - APP: 이벤트 및 매개변수를 WEB과 동일하게 맞추고, platform 매개변수로 구분. 개발자에게 이벤트 설치 요청.
-![image](https://github.com/user-attachments/assets/68d006c9-a72c-4deb-b80e-0988147f5fff)
+![image](https://github.com/user-attachments/assets/92d3c38d-0b86-40db-9120-78857715885a)
 <br>
 
 **4. 측정 시작**
