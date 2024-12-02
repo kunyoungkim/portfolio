@@ -31,14 +31,14 @@
 
 ---
 
-### 2. [etl_dashboard](https://github.com/kunyoungkim/portfolio/tree/main)
+### 2. [etl_dashboard](https://github.com/kunyoungkim/portfolio/tree/main/etl_dashboard)
 >수집한 이벤트 데이터 기반으로 전사 주요 지표 ETL 및 대시보드 제작 (경력 프로젝트)<br>
 >개발 기간: 2024.04.29 ~ 2024.06.28 
 >  
 >기술 스택:  
 >Python / MySQL / Streamlit / GA4 API / Appsflyer API / Google Spreadsheets / Slack
 >  
->[프로젝트 상세 설명](https://github.com/kunyoungkim/portfolio/tree/main) 참고
+>[프로젝트 상세 설명](https://github.com/kunyoungkim/portfolio/tree/main/etl_dashboard) 참고
 
 ---
 
