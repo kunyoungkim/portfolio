@@ -61,4 +61,7 @@
 >Python / MySQL / Google Spreadsheets 
 >  
 >[프로젝트 상세 설명](https://github.com/kunyoungkim/portfolio/tree/main/agent_crawling) 참고
->
+
+---
+
+### 5. [CRM_marketing]
