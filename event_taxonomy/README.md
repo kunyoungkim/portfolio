@@ -17,5 +17,5 @@
 - APP: 이벤트 및 매개변수를 WEB과 동일하게 맞추고, platform 매개변수로 구분. 개발자에게 이벤트 설치 요청.
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="https://github.com/user-attachments/assets/92d3c38d-0b86-40db-9120-78857715885a" alt="Image 1" style="width: 45%;"/>
-    <img src="https://github.com/user-attachments/assets/3a39dc1f-7dfa-487d-b6b3-af0389a7f681" alt="Image 2" style="width: 45%;"/>
+    <img src="https://github.com/user-attachments/assets/6d08aa16-3d6f-4f46-9831-c379222db970" alt="Image 2" style="width: 45%;"/>
 </div>
