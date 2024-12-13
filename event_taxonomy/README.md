@@ -1,13 +1,14 @@
 ## 이벤트 텍소노미 정의
 ### 1. 핵심 지표 설정
+- 매출과 직간접적으로 연관되어있는 지표 정리
+- [데이터 분석을 통해 중개사 매출과 후행지표들의 관계 파악](https://github.com/kunyoungkim/portfolio/blob/main/event_taxonomy/sales_analysis.ipynb)
 - 부동산 중개 플랫폼 특성상 이사를 하는 주기에만 앱을 사용하므로, Retention보다는 유저가 중개사에게 문의를 남기는 데까지의 Activation 퍼널이 가장 중요하다고 판단.
-- [데이터 분석을 통해 중개사 매출과 유저로부터 받은 문의수와의 상관관계 파악](https://github.com/kunyoungkim/portfolio/blob/main/event_taxonomy/sales_analysis.ipynb)
 <br>
 
 ### 2. Activation 퍼널 전환율 파악을 위한 이벤트 텍소노미 정의
 - GA4, Firebase를 통해 웹앱 통합 이벤트 정의
 - 퍼널 단계별 페이지뷰 및 클릭 이벤트 정의
-- 코호트별로 전환율을 비교하기 위해 다양한 매개변수 수집(빌딩 타입, 매물 가격, 로그인 타입 등) 
+- 코호트별로 전환율을 비교하기 위해 다양한 매개변수 수집(빌딩 타입, 매물 가격, 로그인 타입 등)
 ![image](https://github.com/user-attachments/assets/828096b3-fe88-4ffd-9085-cc6acedcb7b0)
 <br>
 
