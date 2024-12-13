@@ -16,6 +16,6 @@
 - WEB: GTM의 사용자 맞춤 자바스크립트 변수를 통해 백엔드에서 보내주는 데이터와 hr태그의 속성 및 속성 값를 통해 page_id 등 매개변수를 수집
 - APP: 이벤트 및 매개변수를 WEB과 동일하게 맞추고, platform 매개변수로 구분. 개발자에게 이벤트 설치 요청.
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/92d3c38d-0b86-40db-9120-78857715885a" alt="Image 1" style="width: 45%;"/>
+    <img src="https://github.com/user-attachments/assets/57b82158-ef1f-439f-b1dc-d5f1a276438a" alt="Image 1" style="width: 45%;"/>
     <img src="https://github.com/user-attachments/assets/6d08aa16-3d6f-4f46-9831-c379222db970" alt="Image 2" style="width: 45%;"/>
 </div>
