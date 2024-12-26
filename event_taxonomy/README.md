@@ -27,5 +27,5 @@
 - QA: PCWEB, MOWEB은 GTM으로, iOS, Andriod는 Firebase Analytics로 디버깅 모두 직접 진행 후, 최종적으로 운영 서버에 배포
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="https://github.com/user-attachments/assets/57b82158-ef1f-439f-b1dc-d5f1a276438a" alt="Image 1" style="width: 45%;"/>
-    <img src="https://github.com/user-attachments/assets/6d08aa16-3d6f-4f46-9831-c379222db970" alt="Image 2" style="width: 45%;"/>
+    <img src="https://github.com/user-attachments/assets/7b0656c9-5519-47ba-9407-d0d638af4c83" alt="Image 2" style="width: 45%;"/>
 </div>
