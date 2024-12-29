@@ -6,7 +6,9 @@
 >[매출 분석 과정 상세보기](https://github.com/kunyoungkim/portfolio/blob/main/event_taxonomy/sales_analysis.ipynb)
 ![image](https://github.com/user-attachments/assets/bca115ca-a174-4478-8fc0-b9da7c8fc66e)
 <br>
----
+
+----
+
 ### 2. 사용자 행동 데이터 수집할 툴 선정
 - 무료로 사용이 가능하고, GA4에서 데이터를 확인할 수 있게끔 GTM, Firebase를 활용하기로 결정
 - join이 필요한 데이터 또는 ETL 작업이 필요한 데이터를 대비하여 빅쿼리에 일 단위 스케줄링 데이터 수집(스트리밍 X)
