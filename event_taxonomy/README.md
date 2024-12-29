@@ -3,6 +3,7 @@
 - 매출과 직간접적으로 연관되어있는 지표 정리
 - [데이터 분석을 통해 중개사 매출과 후행지표들의 관계 파악](https://github.com/kunyoungkim/portfolio/blob/main/event_taxonomy/sales_analysis.ipynb)
 - 부동산 중개 플랫폼 특성상 이사를 하는 주기에만 앱을 사용하므로, Retention과 같은 지표보다는 유저가 중개사에게 문의를 남기는 데까지의 Activation 퍼널에 대한 지표가 가장 중요하다고 판단
+>[매출 분석 과정 상세보기](https://github.com/kunyoungkim/portfolio/blob/main/event_taxonomy/sales_analysis.ipynb)
 ![image](https://github.com/user-attachments/assets/bca115ca-a174-4478-8fc0-b9da7c8fc66e)
 <br>
 
