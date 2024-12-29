@@ -25,7 +25,7 @@
 >개발 기간: 2023.02.27 ~  2024.04.26
 >  
 >기술 스택:  
->GA4 / GTM / Firebase
+>GA4 / GTM / Firebase / Python
 >  
 >[프로젝트 상세 설명](https://github.com/kunyoungkim/portfolio/tree/main/event_taxonomy) 참고
 
