@@ -36,6 +36,9 @@
 >- WEB 데이터 수집: 백엔드에서 데이터 레이어로 보내주는 데이터와 프론트에서 세팅해준 hr태그의 속성 및 속성 값을 GTM의 사용자 맞춤 자바스크립트 변수로 트리거 및 매개변수 설정
 >- APP 데이터 수집: 이벤트 및 매개변수를 WEB과 동일하게 맞추고, platform 매개변수로 구분. 앱 개발자에게 Firebase로 이벤트 설치 요청
 >- QA: PCWEB, MOWEB은 GTM으로, iOS, Andriod는 Firebase Analytics로 디버깅 모두 직접 진행 후, 최종적으로 운영 서버에 배포
+>
+> 기술 스택: GTM, GA4, Firebase
+>  
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="https://github.com/user-attachments/assets/57b82158-ef1f-439f-b1dc-d5f1a276438a" alt="Image 1" style="width: 45%;"/>
     <img src="https://github.com/user-attachments/assets/7b0656c9-5519-47ba-9407-d0d638af4c83" alt="Image 2" style="width: 45%;"/>
