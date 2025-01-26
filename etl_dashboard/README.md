@@ -14,6 +14,7 @@ AAARRR 프레임워크에 따라 전사 OMTM과 팀별 KPI를 설정하고, 이�
 
 # 주요 기능
 - 본 프로젝트에서 자체 개발 및 활용한 주요 메서드는 다음과 같습니다.
+
 | Funtions | Location | Description |
 | --- | --- | --- |
 | extract_ga4_data | extract_ga4.py | for fetching data from GA4 API |
