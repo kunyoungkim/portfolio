@@ -36,7 +36,7 @@
 >개발 기간: 2024.04.29 ~ 2024.06.28 
 >  
 >기술 스택:  
->Python / MySQL / Streamlit / GA4 API / Appsflyer API / Google Spreadsheets / Slack
+>Python / MySQL / GCP / Streamlit / GA4 API / Appsflyer API / Google Spreadsheets / Slack
 >  
 >[프로젝트 상세 설명](https://github.com/kunyoungkim/portfolio/tree/main/etl_dashboard) 참고
 
