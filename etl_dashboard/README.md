@@ -12,6 +12,30 @@ AAARRR 프레임워크에 따라 전사 OMTM과 팀별 KPI를 설정하고, 이�
 # 주요 라이브러리 버전
 - [requirement.txt](etl_dashboard/requirement.txt) 참조
 
+# 파일 구조
+```
+etl_project/
+├── extract/                   # 데이터 추출 모듈
+│   ├── extract_ga4.py         # GA4 API로 데이터 추출
+│   ├── extract_bigquery.py    # BigQuery에서 데이터 추출
+│   ├── extract_sheets.py      # Google Sheets에서 데이터 추출
+│   ├── extract_mysql.py       # MySQL에서 데이터 추출
+│   └── extract_utils.py       # 공통 유틸리티
+├── transform/                 # 데이터 변환 모듈
+│   ├── transform_acquisition.py  # 획득 데이터 변환
+│   ├── transform_activation.py   # 활성화 데이터 변환
+│   ├── transform_retention.py    # 리텐션 데이터 변환
+│   ├── transform_revenue.py      # 수익화 데이터 변환
+│   ├── transform_refferal.py     # 추천 데이터 변환
+│   └── transform_utils.py        # 공통 유틸리티
+├── load/                      # 데이터 적재 모듈
+│   ├── load_to_mysql.py       # 변환된 데이터를 MySQL에 적재
+│   └── load_utils.py          # 적재 관련 공통 유틸리티
+├── config/                    # 설정 파일
+│   └── db_config.json         # MySQL 및 데이터베이스 연결 설정
+└── main.py                    # 전체 ETL 파이프라인 실행
+```
+
 # 주요 기능
 - 본 프로젝트에서 자체 개발 및 활용한 주요 메서드는 다음과 같습니다.
 
