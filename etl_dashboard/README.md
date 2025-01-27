@@ -19,10 +19,5 @@ AAARRR 프레임워크에 따라 전사 OMTM과 팀별 KPI를 설정하고, 이�
 | --- | --- | --- |
 | extract_ga4_data | extract_ga4.py | for fetching data from GA4 API |
 
-**1. 주기적으로 살펴봐야하는 지표 설정**
-
-**2. 흝어져 있는 데이터를 ETL과정을 통해 MySQL 테이블에 통합하여 적재**
-
-**3. Python으로 MySQL 테이블을 캐싱하여 연결**
-
-**4. Stremalit 대시보드 제작**
+# 함수 상세 설명
+## extract_ga4_data
