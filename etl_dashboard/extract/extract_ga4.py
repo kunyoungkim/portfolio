@@ -17,6 +17,8 @@ from google.analytics.data_v1beta.types import (
 )
 from google.analytics.data_v1beta.types import Filter
 
+property_id = os.getenv('PROPERTY_ID')
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getenv('GOOGLE_APPLICATION_CREDENTIALS')
 
 def format_report_with_pagination(request, row_limit=100000, page_size=1000):
     """
@@ -127,9 +129,7 @@ def create_ga4_request(
     # 결과 출력
     print(df.head())
     """
-
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = './your gcp service key json file'
-    property_id = 'your ga4 property id'
+    property_id = property_id
 
     # dimensions와 metrics 처리
     if isinstance(dimensions, str):
@@ -161,7 +161,6 @@ def create_ga4_request(
     )
 
     return format_report_with_pagination(request)
-
 
 # GA4 필터 함수
 def create_dimension_filter(field1: str, 

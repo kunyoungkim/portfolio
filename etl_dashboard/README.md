@@ -49,6 +49,7 @@ etl_project/
 
 # 함수 상세 설명
 ## 1. extract_ga4.py
+- GA4 API를 활용하여 데이터를 불러오는 파일
 - [GA4 API 사용법에 대한 자세히 정리한 문서](https://github.com/kunyoungkim/ga4-api?tab=readme-ov-file) 
 ## 1-1. create_ga4_request
 - 이 함수는 GA4 탐색 보고서처럼 원하는 형태로 집계된 GA4 데이터를 추출하기 위한 함수입니다.
