@@ -48,7 +48,9 @@ etl_project/
 | extract_ga4_data | extract_ga4.py | For fetching data from GA4 API |
 
 # 함수 상세 설명
-## 1. create_ga4_request
+## 1. extract_ga4.py
+- [GA4 API 사용법에 대한 자세히 정리한 문서](https://github.com/kunyoungkim/ga4-api?tab=readme-ov-file) 
+## 1-1. create_ga4_request
 - 이 함수는 GA4 탐색 보고서처럼 원하는 형태로 집계된 GA4 데이터를 추출하기 위한 함수입니다.
 - 측정기준, 측정항목, 날짜 범위, 측정기준 필터를 설정하여 데이터를 집계할 수 있습니다.
 - 불러올 수 있는 측정기준, 측정항목의 목록은 [이 문서](https://developers.google.com/analytics/devguides/reporting/data/v1/api-schema?hl=ko)를 참고해주세요. 
@@ -60,7 +62,7 @@ create_ga4_request('firstUserSourceMedium', #newVsReturning
                     start=start)
 ```
 
-## 2. create_dimension_filter
+## 1-2. create_dimension_filter
 - 이 함수는 create_ga4_request 함수를 통해 데이터를 불러올 때, 측정기준에 대한 필터를 걸 수 있는 함수 입니다.
 - 사용 예시
 ```
