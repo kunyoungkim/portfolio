@@ -1,4 +1,0 @@
-google-cloud-bigquery
-gspread 
-oauth2client
-mysql-connector-python
