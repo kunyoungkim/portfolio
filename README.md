@@ -20,25 +20,25 @@
 
 
 ## :pushpin: 피터팬의 좋은방 구하기 Projects
-### 1. [event_taxonomy](https://github.com/kunyoungkim/etl_dashboard/tree/main)
+### 1. [event_taxonomy](https://github.com/kunyoungkim/portfolio/tree/main/event_taxonomy)
 >웹, 앱 통합 사용자 행동 이벤트 택소노미 정의 및 GTM, GA4 세팅 (경력 프로젝트)  
 >개발 기간: 2023.02.27 ~  2024.04.26
 >  
 >기술 스택:  
 >GA4 / GTM / Firebase / Python
 >  
->[프로젝트 상세 설명](https://github.com/kunyoungkim/etl_dashboard/tree/main) 참고
+>[프로젝트 상세 설명](https://github.com/kunyoungkim/portfolio/tree/main/event_taxonomy) 참고
 
 ---
 
-### 2. [etl_dashboard](https://github.com/kunyoungkim/portfolio/tree/main/etl_dashboard)
+### 2. [etl_dashboard](https://github.com/kunyoungkim/etl_dashboard/tree/main)
 >수집한 이벤트 데이터 기반으로 전사 주요 지표 ETL 및 대시보드 제작 (경력 프로젝트)<br>
 >개발 기간: 2024.04.29 ~ 2024.06.28 
 >  
 >기술 스택:  
 >Python / MySQL / GCP / Streamlit / GA4 API / Appsflyer API / Google Spreadsheets / Slack
 >  
->[프로젝트 상세 설명](https://github.com/kunyoungkim/portfolio/tree/main/etl_dashboard) 참고
+>[프로젝트 상세 설명](https://github.com/kunyoungkim/etl_dashboard/tree/main) 참고
 
 ---
 
