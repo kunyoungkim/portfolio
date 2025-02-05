@@ -31,20 +31,9 @@
 
 ---
 
-### 2. [etl_dashboard](https://github.com/kunyoungkim/etl_dashboard/tree/main)
->수집한 이벤트 데이터 기반으로 전사 주요 지표 ETL 및 대시보드 제작 (경력 프로젝트)<br>
->개발 기간: 2024.04.29 ~ 2024.06.28 
->  
->기술 스택:  
->Python / MySQL / GCP / Streamlit / GA4 API / Appsflyer API / Google Spreadsheets / Slack
->  
->[프로젝트 상세 설명](https://github.com/kunyoungkim/etl_dashboard/tree/main) 참고
-
----
-
-### 3. [data_analysis_reporting](https://github.com/kunyoungkim/portfolio/tree/main/data_analysis_reporting)
+### 2. [data_analysis_reporting](https://github.com/kunyoungkim/portfolio/tree/main/data_analysis_reporting)
 >피터팬의 좋은방 구하기 앱, 웹 서비스 데이터 분석 및 리포팅 (경력 프로젝트)<br>
->개발 기간: 2024.07.01 ~ 
+>개발 기간: 2024.05.13 ~ 
 >
 >기술 스택:
 >Python / MySQL / GA4 / Google Spreadsheets
@@ -53,15 +42,23 @@
 
 ---
 
+### 3. [etl_dashboard](https://github.com/kunyoungkim/etl_dashboard/tree/main)
+>수집한 이벤트 데이터 기반으로 전사 주요 지표 ETL 및 대시보드 제작 (경력 프로젝트)<br>
+>개발 기간: 2024.08.12 ~ 2024.10.21
+>  
+>기술 스택:  
+>Python / MySQL / GCP / Streamlit / GA4 API / Appsflyer API / Google Spreadsheets / Slack
+>  
+>[프로젝트 상세 설명](https://github.com/kunyoungkim/etl_dashboard/tree/main) 참고
+
+---
+
+
 ### 4. [agent_crawling](https://github.com/kunyoungkim/portfolio/tree/main/agent_crawling)
 >영업 매출을 높이기 위한 중개사 정보 크롤링 자동화 후, 영업팀에 제공(경력 프로젝트)<br>
->개발 기간: 2024.09.19 ~ 2024.11.04
+>개발 기간: 2024.10.22 ~ 2024.11.10
 >  
 >기술 스택:  
 >Python / MySQL / Google Spreadsheets 
 >  
 >[프로젝트 상세 설명](https://github.com/kunyoungkim/portfolio/tree/main/agent_crawling) 참고
-
----
-
-### 5. [CRM_marketing]
